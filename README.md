@@ -33,3 +33,9 @@
  - Vimos que cada funcionalidade deve ser feita em uma *branch* separada, e que é comum que esta *branch* tenha `feature/` como prefixo
  - Aprendemos também que *bugs* normalmente são corrigidos em *branches* separadas, com o prefixo `hotfix/`
  - Além disso, *branches* específicas para cada *release* são criadas para realizar os testes e correções de *bugs* específicos
+
+>Aula04 - Ferramentas visuais
+- Que há ferramentas visuais que podem nos auxiliar com o trabalho com o Git;
+- O **Git Cola** foi uma das primeiras ferramentas visuais multiplataforma. Embora não seja a mais complexa ou visualmente atraente, é bem completa e pode nos ajudar bastante;
+- O **GitHub Desktop** pode ser interessante para gerenciar os projetos do GitHub de forma mais ágil e facilitada, sem a necessidade de acessar o site;
+- O **GitKraken** é uma ferramenta extremamente completa, que nos auxilia inclusive com a implementação do **Git Flow**.
